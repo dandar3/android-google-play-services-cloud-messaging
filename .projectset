@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<psf version="2.0">
+<provider id="org.eclipse.team.svn.core.svnnature">
+<project reference="1.0.1,https://github.com/dandar3/android-google-play-services-cloud-messaging/tags/1.0.0,google-play-services-cloud-messaging,6044b2f4f78b001d1da8a22a06d63759;https://github.com/dandar3/android-google-play-services-cloud-messaging;https://github.com/dandar3/android-google-play-services-cloud-messaging;branches;tags;trunk;true;a34bf065-86d8-74aa-f7be-ce57b7db7bff;https://github.com/dandar3/android-google-play-services-cloud-messaging;;false;;;0"/>
+</provider>
+</psf>
